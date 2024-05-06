@@ -12,20 +12,19 @@ Coverage for:
 ## Organization
 
 Word lists are segmented out by generally into three buckets:
-1. `inappropriate` words under most circumstances
-2. `situationally` inappropriate words or sometimes mild words or phrases
-3. a grab-bag of to-be-determined words
+1. `inappropriate` words and phrases under most common circumstances
+2. `situationally` inappropriate words and phrases or sometimes just mild
+3. and for English, a grab-bag of to-be-determined words
 
 Depending on the context, many words in the `inappropriate` list are
 instead situationally appropriate and vice-versa.
 
-Comments accompany many of the word lists to give context for
-non-native speakers. These appear on the same line as the word and
-begin with a `#`.
+Comments accompany the non-English word lists to give context for some
+users. These appear on the same line as the word and begin with a `#`.
 
 At the time of this commit, across the five languages I covered, there
-are 1,170 words in the inappropriate lists and 486 words in the mild
-or situational lists.
+are 1,170 words in the inappropriate lists and 486 words in the
+situational/mild lists.
 
 ## Known Caveats
 
